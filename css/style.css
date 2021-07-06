@@ -79,6 +79,7 @@ h5{
     width: 40%;
     margin: 2%;
     padding: 2%;
+    border-radius: 25px;
  }
 .succes1{
     box-shadow: 1px 1px 10px rgba(196, 196, 196, 0.705);
@@ -124,7 +125,7 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
-    padding: 1%;
+    padding:1 px;
 }
 
 
