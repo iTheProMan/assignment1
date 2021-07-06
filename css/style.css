@@ -10,6 +10,7 @@ a {
   color: white;
   border-radius: 40px;
 }
+
 .blue1 {
   color: rgb(10, 137, 255);
 }
@@ -21,11 +22,11 @@ a {
 }
 h1 {
   font-size: 60px;
-  font-weight: 900;
+  font-weight: bolder;
 }
 h2 {
   font-size: 40px;
-  font-weight: 800;
+  font-weight: 900;
 }
 h4 {
   font-size: 38px;
@@ -116,7 +117,7 @@ footer {
   background-color: black;
   color: white;
   text-align: center;
-  padding: 1 px;
+  padding: 1px;
 }
 
 /* test feature
