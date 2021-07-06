@@ -10,7 +10,6 @@ a {
   color: white;
   border-radius: 40px;
 }
-
 .blue1 {
   color: rgb(10, 137, 255);
 }
@@ -42,7 +41,9 @@ h5 {
 .high2 img {
   height: 500px;
 }
-
+section p{
+    text-align: justify;
+  }
 .flex2 img {
   width: 100%;
   border-radius: 30px;
