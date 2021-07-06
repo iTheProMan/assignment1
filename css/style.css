@@ -4,8 +4,9 @@ body {
 a {
   text-align: center;
   background-image: linear-gradient(rgb(0, 140, 255), skyblue);
+  font-size: 17px;
   font-weight: 700;
-  padding: 16px 30px;
+  padding: 20px 30px;
   text-decoration: none;
   color: white;
   border-radius: 40px;
