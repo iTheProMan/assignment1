@@ -110,11 +110,6 @@ h5{
 
 
 
-
-
-
-
-
  .top-bannar{
      background-image: url(../images/top-bannar.jpg);
      background-repeat: no-repeat;
@@ -131,3 +126,14 @@ footer{
     text-align: center;
     padding: 1%;
 }
+
+
+/* test feature
+header{
+    background-image: linear-gradient(rgba(44, 213, 255, 0.699), rgba(156, 215, 243, 0.89));
+    color: whitesmoke;
+    text-align: center;
+}
+*/
+
+
